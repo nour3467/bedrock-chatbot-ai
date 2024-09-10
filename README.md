@@ -2,6 +2,12 @@
 
 BedRock Chatbot AI is an advanced conversational AI application that leverages Amazon Bedrock, LangChain, and Streamlit to provide an intelligent and interactive chatbot experience. This project demonstrates the seamless integration of state-of-the-art language models with a user-friendly interface, showcasing the potential of AI-driven conversations in various domains.
 
+## 🎥 Demo Video
+
+Watch the demo video below to see the AWS Movie Poster Creator in action:
+
+https://github.com/user-attachments/assets/31bb1f07-5d2d-4ff8-9ca5-b5916ba2ddef
+
 ## Architecture 🏗️
 
 ![BedRock Chatbot AI Architecture](./assets/chatbot_architecture.png)
