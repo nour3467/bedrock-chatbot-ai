@@ -1,6 +1,0 @@
-🚀 Check out NourBot — an AI chatbot powered by AWS Bedrock. It handles both text and image inputs using LangChain for contextual memory.
-
-Try it yourself on GitHub 💻: [Insert GitHub link]
-
-#AWS #AI #LangChain #NLP #DataScience #CloudComputing
-
